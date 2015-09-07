@@ -11,4 +11,8 @@ class person
     "watching tv"
   end
 
+  def play_football
+    "football"
+  end
+
 end
