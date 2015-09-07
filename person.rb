@@ -7,4 +7,8 @@ class person
     "Eating nachos"
   end
 
+  def watch_tv
+    "watching tv"
+  end
+
 end
