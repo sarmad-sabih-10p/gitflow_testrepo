@@ -12,7 +12,7 @@ class person
   end
 
   def play_football
-    "football"
+    "goal!"
   end
 
 end
